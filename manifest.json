@@ -1,0 +1,9 @@
+{
+  "id": "color-it",
+  "name": "Color It",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Rechtsklick-Menü zum Ändern von Textfarbe und Hervorhebungsfarbe für markierten Text.",
+  "author": "Paul",
+  "isDesktopOnly": false
+}
